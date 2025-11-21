@@ -1,10 +1,10 @@
 # Crimes e Ilícitos do Mercado de Capitais
 
-## I. Abordagem e Tipos de Crimes
-- **Objetivo:** O Código busca coibir condutas fraudulentas, manipuladoras e antiéticas que prejudicam a confiança e a eficiência do mercado.
-- **Tipologia Aberta:** As normas do mercado de capitais são flexíveis para abranger novas práticas e comportamentos que possam surgir no futuro, mantendo-se dinâmicas.
+## 1. Abordagem e Tipos de Crimes
+- Objetivo: O Código busca coibir condutas fraudulentas, manipuladoras e antiéticas que prejudicam a confiança e a eficiência do mercado.
+- Tipologia Aberta: As normas do mercado de capitais são flexíveis para abranger novas práticas e comportamentos que possam surgir no futuro, mantendo-se dinâmicas.
 
-## II. Principais Crimes e Ilícitos
+## 2. Principais Crimes e Ilícitos
 
 #### Manipulação de Mercado de Preços 
 - Práticas ilegais para influenciar artificialmente a oferta, a demanda ou o preço de um valor mobiliário, visando lucro indevido. 

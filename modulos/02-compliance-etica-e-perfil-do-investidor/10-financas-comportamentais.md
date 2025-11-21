@@ -1,6 +1,6 @@
 # Finanças Comportamentais 
 
-## I. Finanças Comportamentais vs. Finanças Tradicionais
+## 1. Finanças Comportamentais vs. Finanças Tradicionais
 
 #### Finanças Tradicionais
 - Indivíduo racional, livre de apego emocional, que toma decisões baseadas em análise objetiva.
@@ -10,7 +10,7 @@
 - Indivíduo com comportamentos não racionais (ex: aversão à perda), que toma decisões influenciadas por emoções, vieses e experiências pessoais. 
 - Emoções, vieses cognitivos e atalhos mentais (heurísticas).
 
-## II. Heurísticas e Vieses Cognitivos
+## 2. Heurísticas e Vieses Cognitivos
 - Heurísticas são atalhos mentais que ignoram parte da informação para tornar a escolha mais fácil e rápida, o que pode levar a erros sistemáticos (decisões enviesadas).
 
 #### Heurística da Disponibilidade
@@ -29,6 +29,6 @@
 - Sentir a dor da perda mais intensamente do que a satisfação de um ganho equivalente. 
 - Exemplo: Recusar-se a vender uma ação com perda (esperando recuperar o valor), pois a dor de realizar a perda é maior do que a perspectiva de ganhos futuros.
 
-## III. Framing (Enquadramento)
-- **Conceito:** Refere-se ao fato de que as escolhas das pessoas são influenciadas pela forma como um problema é expresso ou "enquadrado", mesmo que a informação subjacente seja a mesma.
-- **Impacto:** Dependendo da ênfase dada na apresentação (ex: ênfase na "salvação" versus ênfase na "morte" em um dilema), o investidor pode tomar decisões diferentes.
+## 3. Framing (Enquadramento)
+- Conceito: Refere-se ao fato de que as escolhas das pessoas são influenciadas pela forma como um problema é expresso ou "enquadrado", mesmo que a informação subjacente seja a mesma.
+- Impacto: Dependendo da ênfase dada na apresentação (ex: ênfase na "salvação" versus ênfase na "morte" em um dilema), o investidor pode tomar decisões diferentes.

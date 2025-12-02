@@ -27,7 +27,7 @@
 ## 3. Organismos e Convenções Internacionais
 
 #### Conselho de Segurança das Nações Unidas (CSNU)
-- Atua no combate ao financiamento do Terrorismo 
+- Atua no combate ao financiamento do Terrorismo.
 - As instituições financeiras brasileiras devem cumprir imediatamente suas determinações para a indisponibilidade/bloqueio de ativos. 
 
 #### Convenção de Viena (1988)
@@ -40,4 +40,4 @@
 
 #### GAFI (Grupo de Ação Financeira)
 - Proteção do Sistema Financeiro Internacional contra LD-FT.
-- Órgão intergovernamental que estabelece padrões internacionais de prevenção (ex: identificação de Pessoas Politicamente Expostas – **PPE, e realização de Due Diligence).
+- Órgão intergovernamental que estabelece padrões internacionais de prevenção (ex: identificação de Pessoas Politicamente Expostas – PPE, e realização de Due Diligence).

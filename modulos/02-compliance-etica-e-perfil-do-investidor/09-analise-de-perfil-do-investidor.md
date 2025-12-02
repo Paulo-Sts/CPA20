@@ -71,9 +71,9 @@
 
 #### Finanças Pessoais
 - O planejamento financeiro pessoal se divide em três etapas:
-1. Balanço Patrimonial: Ativos (bens, direitos) e Passivos (dívidas, obrigações).
-   - Índice de Endividamento Pessoal = Total de Passivos / Total de Ativos.
-2. Fluxo de Caixa: Evidencia Receitas (entradas) e Despesas (saídas).
-   - Agente Superavitário: Receitas > Despesas.
-   - Agente Deficitário: Despesas > Receitas.
-3. Orçamento Doméstico: Planejamento futuro (diferente dos demais, que analisam presente/passado).
+  1. Balanço Patrimonial: Ativos (bens, direitos) e Passivos (dívidas, obrigações).
+     - Índice de Endividamento Pessoal = Total de Passivos / Total de Ativos.
+  2. Fluxo de Caixa: Evidencia Receitas (entradas) e Despesas (saídas).
+     - Agente Superavitário: Receitas > Despesas.
+     - Agente Deficitário: Despesas > Receitas.
+  3. Orçamento Doméstico: Planejamento futuro (diferente dos demais, que analisam presente/passado).

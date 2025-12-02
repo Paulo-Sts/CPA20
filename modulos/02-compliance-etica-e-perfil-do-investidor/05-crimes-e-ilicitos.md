@@ -23,7 +23,7 @@
 #### Front Running 
 - O profissional (ex: corretor) coloca sua própria ordem na frente da ordem do cliente e executa uma ordem menor, antecipando-se ao movimento que será causado pela ordem de grande volume do cliente.
 - Exemplo:
-  - O corretor recebe uma ordem grande de compra, compra para si primeiro, e depois executa a ordem do cliente, lucrando com a alta de preço que se segue. |
+  - O corretor recebe uma ordem grande de compra, compra para si primeiro, e depois executa a ordem do cliente, lucrando com a alta de preço que se segue.
 
 #### Exercício Irregular de Função
 - Ocorre quando uma pessoa atua no mercado de capitais sem cumprir os requisitos legais ou regulatórios necessários.

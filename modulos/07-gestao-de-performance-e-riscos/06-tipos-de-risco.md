@@ -14,8 +14,8 @@
 
 ## 3. Risco País e Risco de Mercado Externo
 - Risco País: Medida que avalia a probabilidade de um país não cumprir suas obrigações financeiras no cenário internacional.
-- EMBI (Emerging Markets Bond Index):** Indicador da J.P. Morgan usado para calcular o Risco País de economias emergentes, comparando o retorno de seus títulos públicos com os títulos norte-americanos (considerados de baixo risco soberano).
-- Risco de Mercado Externo:** Possibilidade de perdas causadas por condições externas, como:
+- EMBI (Emerging Markets Bond Index): Indicador da J.P. Morgan usado para calcular o Risco País de economias emergentes, comparando o retorno de seus títulos públicos com os títulos norte-americanos (considerados de baixo risco soberano).
+- Risco de Mercado Externo: Possibilidade de perdas causadas por condições externas, como:
   - Oscilações na taxa de câmbio.
   - Mudanças no cenário macroeconômico mundial.
   - Riscos geopolíticos em outros países.

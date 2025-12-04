@@ -1,7 +1,7 @@
 # Prazo Médio e Vencimento
 
 ## 1. Média Simples vs. Média Ponderada
-Para calcular o prazo de vencimento de uma carteira de investimentos de forma precisa, é fundamental utilizar o conceito de Média Ponderada, e não a média simples.
+- Para calcular o prazo de vencimento de uma carteira de investimentos de forma precisa, é fundamental utilizar o conceito de Média Ponderada, e não a média simples.
 
 #### Média Simples (Comum)
 - Conceito: É o valor obtido pela soma de um conjunto de números dividida pela quantidade de elementos desse conjunto.

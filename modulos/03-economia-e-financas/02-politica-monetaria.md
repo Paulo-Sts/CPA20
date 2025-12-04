@@ -15,7 +15,7 @@
 - Estimula o Crescimento Econômico (mais produção, mais emprego). Risco de Inflação.
 
 #### Contracionista
-- Retira moeda** da economia (diminui a liquidez).
+- Retira moeda da economia (diminui a liquidez).
 - Aumenta (o crédito fica mais caro).
 - Controla a Inflação. Risco de Desaquecimento Econômico (menor produção e emprego).
 

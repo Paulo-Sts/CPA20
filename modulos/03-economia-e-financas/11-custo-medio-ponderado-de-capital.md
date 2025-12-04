@@ -6,7 +6,7 @@
 - Finalidade: O CMPC representa a taxa mínima de retorno que uma empresa deve obter em seus projetos de investimento para agregar valor aos acionistas.
 
 ## 2. Fontes de Financiamento (Capital)
-- As empresas buscam recursos para financiar seus gastos e aumentar a capacidade produtiva através de duas fontes principais, geralmente adotando uma abordagem híbrida:
+- As empresas buscam recursos para financiar seus gastos e aumentar a capacidade produtiva através de duas fontes principais, geralmente adotando uma abordagem híbrida.
 
 #### Capital Próprio (Acionistas)
 - É o dinheiro injetado na empresa pelos acionistas.

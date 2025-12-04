@@ -1,7 +1,7 @@
 # Capitalização Simples e Composta
 
 ## 1. Capitalização Simples (Juros Simples)
-Na capitalização simples, o valor de referência para o cálculo dos juros é sempre o montante inicial.
+- Na capitalização simples, o valor de referência para o cálculo dos juros é sempre o montante inicial.
 - Cálculo: Os juros são calculados apenas sobre o capital principal, e o valor do juro não muda ao longo do tempo.
 - Crescimento: O montante inicial cresce de forma linear, seguindo uma progressão aritmética.
 - Taxas Proporcionais: É possível converter a taxa de um período para outro (ex: de mensal para anual) utilizando-se apenas multiplicação ou divisão. As taxas resultantes são chamadas de Taxas Proporcionais.

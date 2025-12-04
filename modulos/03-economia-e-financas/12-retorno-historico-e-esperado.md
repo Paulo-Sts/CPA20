@@ -9,7 +9,7 @@
 
 #### Para uma Carteira de Investimentos
 - É calculado com base nas variações de valor de todos os ativos que compõem a carteira.
-- Utiliza-se a Média Ponderada, onde o retorno de cada ativo é multiplicado por sua participação percentual (peso)** no valor total da carteira.
+- Utiliza-se a Média Ponderada, onde o retorno de cada ativo é multiplicado por sua participação percentual (peso) no valor total da carteira.
 - Fórmula Conceitual: Soma dos [Retorno de cada Ativo X Participação do Ativo na Carteira].
 
 ## 2. Retorno Esperado

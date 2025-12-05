@@ -1,6 +1,6 @@
-# Fundos de Investimento (CVM)
+# Fundos de Investimento
 
-## I. Conceito e Estrutura Básica
+## 1. Conceito e Estrutura Básica
 - Definição: Modalidade de aplicação financeira caracterizada pela união de recursos de vários investidores (cotistas), que investem de forma conjunta em diversos ativos financeiros.
 - Natureza Jurídica: Juridicamente, os fundos são classificados como condomínios de natureza especial.
 - Patrimônio: O patrimônio do fundo é dividido em cotas, e o investidor que as adquire se torna um cotista, possuindo uma parcela representativa desse patrimônio.

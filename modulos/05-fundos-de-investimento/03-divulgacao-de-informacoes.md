@@ -26,7 +26,7 @@
 | Diária        | Informe Diário (encaminhado à CVM).                                                 | Em até 1 dia útil.                                                           |
 | Mensal        | Balancete, demonstrativo da carteira, perfil mensal e Lâmina de Informações Básicas | Em até 10 dias úteis após o encerramento do mês.                             |
 | Anual         | Demonstrações Contábeis e Pareceres de Auditoria (encaminhados à CVM).              | Em até 90 dias após o encerramento do exercício.                             |
-| Anual         | Demonstração de Desempenho** (disponibilizada aos cotistas).                        | Até o último dia útil de fevereiro de cada ano.                              |
+| Anual         | Demonstração de Desempenho (disponibilizada aos cotistas).                          | Até o último dia útil de fevereiro de cada ano.                              |
 | Eventual      | Formulário padronizado com informações básicas da classe.                           | Sempre que houver alteração no regulamento.                                  |
 
 ## 4. Assembleia de Cotistas

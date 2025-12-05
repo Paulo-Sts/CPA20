@@ -77,8 +77,8 @@
 ## 4. Outras Classes Especiais
 - Concentração em Crédito Privado: Fundos de Renda Fixa, Multimercado ou Cambial que investem mais de 50% do PL em ativos de Pessoas Físicas/Jurídicas de direito privado devem incluir o sufixo "Crédito Privado" na denominação.
 - Exceção: Renda Fixa Simples não pode ultrapassar esse limite. Fundo de Infraestrutura não se aplica a essa regra.
-- Fundo de Infraestrutura (FI-Infra):** Deve investir pelo menos 85% do PL em títulos de crédito privado elegíveis a benefícios fiscais (isento de IR para o investidor PF).
-- Classes Restritas (Investidores Qualificados/Profissionais):** Possuem maior flexibilidade:
+- Fundo de Infraestrutura (FI-Infra): Deve investir pelo menos 85% do PL em títulos de crédito privado elegíveis a benefícios fiscais (isento de IR para o investidor PF).
+- Classes Restritas (Investidores Qualificados/Profissionais): Possuem maior flexibilidade:
   - Prazos de conversão e pagamento de resgates mais longos.
   - Possibilidade de dobrar os limites de concentração por emissor (I. Qualificado).
   - Flexibilidade ainda maior para I. Profissionais, incluindo não observância de alguns limites.

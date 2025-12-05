@@ -7,9 +7,9 @@
   - Contrata (em nome do fundo): serviços de tesouraria, controle e processamento de ativos, escrituração de cotas e auditoria independente.
   - Exceção: Se o administrador for uma instituição financeira ou de pagamento autorizada pelo Bacen, ele pode executar esses serviços sem contratar terceiros.
 - Gestor (Responsável pela Carteira):
-- Tem poderes para praticar os atos necessários à gestão da Carteira de Ativos (decide onde investir).
-- Contrata (em nome do fundo): serviços de intermediação de operações (corretagem), distribuição de cotas, consultoria de investimentos, classificação de risco e formador de mercado (para classes fechadas).
-- Obrigações: Negociar ativos, observar limites de concentração na carteira e realizar testes de estresse de liquidez/iliquidez.
+  - Tem poderes para praticar os atos necessários à gestão da Carteira de Ativos (decide onde investir).
+  - Contrata (em nome do fundo): serviços de intermediação de operações (corretagem), distribuição de cotas, consultoria de investimentos, classificação de risco e formador de mercado (para classes fechadas).
+  - Obrigações: Negociar ativos, observar limites de concentração na carteira e realizar testes de estresse de liquidez/iliquidez.
 
 ## 2. Taxas Cobradas
 

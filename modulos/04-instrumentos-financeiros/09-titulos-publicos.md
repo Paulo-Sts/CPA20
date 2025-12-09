@@ -7,7 +7,7 @@
 - Indexador: Taxa Selic acumulada no período.
 - Remuneração: Paga a Taxa Selic acrescida de ágio (remuneração inferior à Selic) ou deságio (remuneração superior à Selic), dependendo das condições de mercado na compra.
 - Cupons: Zero cupom (não paga juros periódicos). O investidor recebe o principal e a rentabilidade no vencimento.
-- VNA (Valor Nominal Atualizado):** É corrigido diariamente pela Taxa Selic.
+- VNA (Valor Nominal Atualizado): É corrigido diariamente pela Taxa Selic.
 
 ## 2. Títulos Pré-Fixados
 

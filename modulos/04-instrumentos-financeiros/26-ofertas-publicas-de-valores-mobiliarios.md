@@ -24,9 +24,9 @@
 - Diferentes instituições financeiras exercem papéis específicos na estruturação e acompanhamento da oferta e dos títulos:
   - Banco Coordenador: É o líder do processo, responsável por organizar e gerenciar a oferta, estruturar a operação, definir o preço e coordenar a distribuição.
   - Agente Fiduciário: Instituição responsável por proteger os direitos e interesses dos investidores (titulares dos títulos). Sua intervenção é obrigatória em algumas emissões, como as de debêntures.
-  -Banco Escriturador: Contratado para manter os registros dos valores mobiliários emitidos pela companhia atualizados (conciliação com a B3, registro de compras e vendas).
-  -Banco Mandatário: Encarrega-se de realizar os pagamentos devidos pela companhia aos seus investidores (ex: pagamento de dividendos, juros e resgate de títulos).
-  -Depositário: Assume a guarda eletrônica (custódia) dos títulos (titularidade fiduciária), fazendo com que as ações fiquem registradas em seu nome para simplificar a mudança de acionistas a todo momento.
+  - Banco Escriturador: Contratado para manter os registros dos valores mobiliários emitidos pela companhia atualizados (conciliação com a B3, registro de compras e vendas).
+  - Banco Mandatário: Encarrega-se de realizar os pagamentos devidos pela companhia aos seus investidores (ex: pagamento de dividendos, juros e resgate de títulos).
+  - Depositário: Assume a guarda eletrônica (custódia) dos títulos (titularidade fiduciária), fazendo com que as ações fiquem registradas em seu nome para simplificar a mudança de acionistas a todo momento.
   - Custodiante: Responsável por movimentar os valores mobiliários no Depositário (receber e executar ordens de venda, transferência, depósito ou retirada).
   - Formador de Mercado (Market Maker): Pessoa jurídica que se compromete a manter simultaneamente ofertas de compra e venda para o ativo. Seu objetivo é garantir liquidez ao valor mobiliário e mitigar movimentos artificiais de preço.
 

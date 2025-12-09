@@ -29,7 +29,7 @@
   - Empresas com altos níveis de governança corporativa podem ter exigências de tag along maiores que a lei, podendo chegar a 100% para ações ON e até 100% para ações PN.
 
 ## 3. Fontes de Informação e Divulgação
-A legislação obriga os administradores a divulgar uma série de informações aos acionistas:
+- A legislação obriga os administradores a divulgar uma série de informações aos acionistas:
   - Relatório Anual de Administração: Detalha a política de reinvestimento de lucros, distribuição de dividendos e os principais fatos administrativos do exercício.
   - Demonstrações Financeiras e Pareceres de Auditores Independentes.
   - Justificativa para Não Distribuição de Dividendo Obrigatório: Se a empresa deixar de distribuir o dividendo previsto no estatuto devido a endividamento, a administração deve justificar o fato na Assembleia Geral e encaminhar a justificativa à CVM (Comissão de Valores Mobiliários) em até 5 dias.

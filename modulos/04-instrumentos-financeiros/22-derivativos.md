@@ -11,7 +11,7 @@
 
 #### Mercado a Termo
 - Negociação: Compromisso de comprar e vender um ativo em data futura por um preço fixado. 
-- Obrigatoriedade: Obrigatório** para ambas as partes (comprador e vendedor) honrarem o contrato no vencimento. 
+- Obrigatoriedade: Obrigatório para ambas as partes (comprador e vendedor) honrarem o contrato no vencimento. 
 - Contrato: Não Padronizado (permite maior detalhamento entre as partes).
 - Negociação: Balcão e Bolsa. 
 - Liquidação: Vencimento ou antecipada (por solicitação do comprador, com acordo mútuo).

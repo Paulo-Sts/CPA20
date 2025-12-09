@@ -53,6 +53,6 @@
     - Até 180 dias: 22,5%
     - De 181 a 360 dias: 20%
     - De 361 a 720 dias: 17,5%
-    - Acima de 720 dias: 15% (alíquota máxima)
+    - Acima de 720 dias: 15% (alíquota mínima)
 - IOF (Imposto sobre Operações Financeiras):
   - Incide sobre o rendimento (lucro) em caso de resgate nos primeiros 30 dias da aplicação. A alíquota diminui diariamente, sendo zero após o 30º dia.
